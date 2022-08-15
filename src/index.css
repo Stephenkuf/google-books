@@ -1,0 +1,9 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: Muli,sans-serif;
+  background: linear-gradient(#f2f2f2 50%, transparent 50%);
+  height: 100vh;
+  background-repeat: no-repeat;
+  color: #1a1a1a;
+}
