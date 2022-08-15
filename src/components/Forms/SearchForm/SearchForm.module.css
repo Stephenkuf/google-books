@@ -1,0 +1,18 @@
+
+.search__form {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.search__button {
+  background-color: rgb(245, 86, 28);
+  border: 1px solid rgb(245, 86, 28);
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.375rem;
+  transition: all ease-in-out;
+  color: #fff;
+  cursor: pointer;
+  margin-left: 20px;
+}
