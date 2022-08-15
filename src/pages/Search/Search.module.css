@@ -1,0 +1,12 @@
+.search__result-title {
+  font-size: 24px;
+  color: #1a1a1a;
+  font-weight: 300;
+  margin-top: 45px
+}
+
+.search__result-title span {
+  text-transform: capitalize;
+  border-bottom: 1px dotted #1a1a1a;
+  font-weight: 700;
+}
