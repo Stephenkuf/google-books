@@ -16,3 +16,8 @@
   cursor: pointer;
   margin-left: 20px;
 }
+
+.search__button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
