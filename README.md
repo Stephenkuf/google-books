@@ -39,8 +39,17 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### `Development process and approach`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The development process is based on the following steps:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Create a new React app with CRA.
+2. Installed the dependencies.
+3. Created the initial files and configuration.
+4. Created User Interface.
+5. API integration, data fetching and interactivity.
+
+For the steps above i used the gitflow workflow.
+
+
+To have a look at the deployed solution, you can check [here](https://google-books-hazel.vercel.app/)
