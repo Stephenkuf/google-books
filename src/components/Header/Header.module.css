@@ -57,3 +57,9 @@
 .nav__links .nav__item:not(:last-child) {
   margin-right: 30px;
 }
+
+@media screen and (max-width: 768px) {
+  .nav__brand {
+    font-size: 30px;
+  }
+}
