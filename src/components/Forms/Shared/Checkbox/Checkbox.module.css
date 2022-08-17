@@ -10,8 +10,8 @@
   cursor: pointer;
 }
 .checkbox input, .checkbox svg {
-  width: 21px;
-  height: 21px;
+  width: 18px;
+  height: 18px;
   display: block;
 }
 .checkbox input {
@@ -48,8 +48,8 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 21px;
-  height: 21px;
+  width: 18px;
+  height: 18px;
   transform: scale(var(--scale, 1)) translateZ(0);
 }
 
@@ -72,5 +72,5 @@
 .checkbox span {
   margin-left: 10px;
   color: #0077bc;
-  font-size: 15px;
+  font-size: 14px;
 }
